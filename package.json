@@ -112,7 +112,7 @@
     "rxjs-compat": "^6.5.2",
     "sass-loader": "^7.1.0",
     "screenfull": "^4.2.0",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "spinkit": "^1.2.5",
     "style-loader": "^0.23.1",
     "ts-helpers": "^1.1.2",
