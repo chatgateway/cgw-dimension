@@ -37,7 +37,7 @@
     "matrix-js-snippets": "^0.2.8",
     "memory-cache": "^0.2.0",
     "mime": "^2.4.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "netmask": "^1.0.6",
     "random-string": "^0.2.0",
     "request": "^2.88.0",
